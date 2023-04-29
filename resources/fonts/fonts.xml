@@ -1,0 +1,5 @@
+<fonts>
+  <font id="FontClock" filename="MyriadPro_160px_Clock.fnt" />
+  <font id="FontDate" filename="DubaiLight_55px_Date.fnt" />
+  <font id="FontStats" filename="DubaiLight_48px_Stats.fnt" />
+</fonts>

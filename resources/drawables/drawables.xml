@@ -1,0 +1,11 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="GCbkg" filename="BG2.png" />
+    <bitmap id="bat20" filename="battery30.png" />
+    <bitmap id="cal20" filename="calories30.png" />
+    <bitmap id="hr20" filename="hr30.png" />
+    <bitmap id="msg20" filename="msg30.png" />
+    <bitmap id="steps20" filename="steps30.png" />
+    <bitmap id="BB20" filename="BB30.png" />
+    <bitmap id="BT20" filename="noBT.png" />
+</drawables>
