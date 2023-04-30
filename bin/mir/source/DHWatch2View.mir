@@ -547,7 +547,7 @@ C_Users_Daan_Wielens_STACK_Synced_Sports_Garmin_Developer_DHWatch2_source_DHWatc
         %tmp.81 = lgetv %dc;
         %tmp.82 = getv function %tmp.81 :setColor;
         %tmp.83 = getm $.Toybox.Graphics;
-        %tmp.84 = getv %tmp.83 :COLOR_LT_GRAY;
+        %tmp.84 = getv %tmp.83 :COLOR_WHITE;
         %tmp.85 = getm $.Toybox.Graphics;
         %tmp.86 = getv %tmp.85 :COLOR_TRANSPARENT;
         invoke %tmp.81 %tmp.82(%tmp.84, %tmp.86);
@@ -809,7 +809,7 @@ C_Users_Daan_Wielens_STACK_Synced_Sports_Garmin_Developer_DHWatch2_source_DHWatc
         %tmp.130 = lgetv %dc;
         %tmp.131 = getv function %tmp.130 :setColor;
         %tmp.132 = getm $.Toybox.Graphics;
-        %tmp.133 = getv %tmp.132 :COLOR_LT_GRAY;
+        %tmp.133 = getv %tmp.132 :COLOR_WHITE;
         %tmp.134 = getm $.Toybox.Graphics;
         %tmp.135 = getv %tmp.134 :COLOR_TRANSPARENT;
         invoke %tmp.130 %tmp.131(%tmp.133, %tmp.135);
@@ -1026,7 +1026,7 @@ C_Users_Daan_Wielens_STACK_Synced_Sports_Garmin_Developer_DHWatch2_source_DHWatc
         %tmp.100 = lgetv %dc;
         %tmp.101 = getv function %tmp.100 :setColor;
         %tmp.102 = getm $.Toybox.Graphics;
-        %tmp.103 = getv %tmp.102 :COLOR_LT_GRAY;
+        %tmp.103 = getv %tmp.102 :COLOR_WHITE;
         %tmp.104 = getm $.Toybox.Graphics;
         %tmp.105 = getv %tmp.104 :COLOR_TRANSPARENT;
         invoke %tmp.100 %tmp.101(%tmp.103, %tmp.105);
@@ -1106,7 +1106,7 @@ C_Users_Daan_Wielens_STACK_Synced_Sports_Garmin_Developer_DHWatch2_source_DHWatc
         %tmp.11 = lgetv %dc;
         %tmp.12 = getv function %tmp.11 :setColor;
         %tmp.13 = getm $.Toybox.Graphics;
-        %tmp.14 = getv %tmp.13 :COLOR_LT_GRAY;
+        %tmp.14 = getv %tmp.13 :COLOR_WHITE;
         %tmp.15 = getm $.Toybox.Graphics;
         %tmp.16 = getv %tmp.15 :COLOR_TRANSPARENT;
         invoke %tmp.11 %tmp.12(%tmp.14, %tmp.16);
@@ -1323,7 +1323,7 @@ C_Users_Daan_Wielens_STACK_Synced_Sports_Garmin_Developer_DHWatch2_source_DHWatc
         %tmp.125 = lgetv %dc;
         %tmp.126 = getv function %tmp.125 :setColor;
         %tmp.127 = getm $.Toybox.Graphics;
-        %tmp.128 = getv %tmp.127 :COLOR_LT_GRAY;
+        %tmp.128 = getv %tmp.127 :COLOR_WHITE;
         %tmp.129 = getm $.Toybox.Graphics;
         %tmp.130 = getv %tmp.129 :COLOR_TRANSPARENT;
         invoke %tmp.125 %tmp.126(%tmp.128, %tmp.130);
@@ -1579,7 +1579,7 @@ C_Users_Daan_Wielens_STACK_Synced_Sports_Garmin_Developer_DHWatch2_source_DHWatc
         %tmp.132 = lgetv %dc;
         %tmp.133 = getv function %tmp.132 :setColor;
         %tmp.134 = getm $.Toybox.Graphics;
-        %tmp.135 = getv %tmp.134 :COLOR_LT_GRAY;
+        %tmp.135 = getv %tmp.134 :COLOR_WHITE;
         %tmp.136 = getm $.Toybox.Graphics;
         %tmp.137 = getv %tmp.136 :COLOR_TRANSPARENT;
         invoke %tmp.132 %tmp.133(%tmp.135, %tmp.137);

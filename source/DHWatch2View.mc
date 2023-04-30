@@ -116,7 +116,7 @@ class DHWatch2View extends WatchUi.WatchFace {
         dc.drawArc(posX, posY, 40, Graphics.ARC_CLOCKWISE, 90, 90);
         dc.setColor(Graphics.COLOR_DK_RED, Graphics.COLOR_TRANSPARENT);
         dc.drawArc(posX, posY, 40, Graphics.ARC_CLOCKWISE, 90, 90-(sysbat*3.6));
-        dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
+        dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
         var sysbatstr = sysbat.format("%2d");
         var batSize = dc.getTextDimensions(sysbatstr, statsFont);
         dc.drawText(posX - Math.round(batSize[0]/2), posY - Math.round(batSize[1]/2) + 12, statsFont, sysbatstr, Graphics.TEXT_JUSTIFY_LEFT);
@@ -150,7 +150,7 @@ class DHWatch2View extends WatchUi.WatchFace {
                 dc.drawArc(posX, posY, 40, Graphics.ARC_CLOCKWISE, 90, 90);
             }
         }
-        dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
+        dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
         var stepSize = dc.getTextDimensions(stepString, statsFont);
         dc.drawText(posX - Math.round(stepSize[0]/2), posY - Math.round(stepSize[1]/2) + 12, statsFont, stepString, Graphics.TEXT_JUSTIFY_LEFT);
         dc.drawBitmap(posX-15, posY-31, stepsImg);
@@ -175,7 +175,7 @@ class DHWatch2View extends WatchUi.WatchFace {
         dc.setColor(Graphics.COLOR_DK_RED, Graphics.COLOR_TRANSPARENT);
         dc.drawArc(posX, posY, 40, Graphics.ARC_CLOCKWISE, 90, 90);
         var HRSize = dc.getTextDimensions(HRstr, statsFont);
-        dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
+        dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
         dc.drawText(posX - Math.round(HRSize[0]/2), posY - Math.round(HRSize[1]/2) + 12, statsFont, HRstr, Graphics.TEXT_JUSTIFY_LEFT);
         dc.drawBitmap(posX-15, posY-31, hrImg);
     }
@@ -185,7 +185,7 @@ class DHWatch2View extends WatchUi.WatchFace {
         var posY = 75;
         var notCount = System.getDeviceSettings().notificationCount;
         if (notCount > 0) {
-            dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
+            dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
             dc.drawText(posX, posY, statsFont, notCount.toString(), Graphics.TEXT_JUSTIFY_LEFT);
             dc.drawBitmap(posX-30, posY+8, msgImg);
         }       
@@ -214,7 +214,7 @@ class DHWatch2View extends WatchUi.WatchFace {
                 dc.drawArc(posX, posY, 40, Graphics.ARC_CLOCKWISE, 90, 90);
             }
         }
-        dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
+        dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
         var BBSize = dc.getTextDimensions(BBString, statsFont);
         dc.drawText(posX - Math.round(BBSize[0]/2), posY - Math.round(BBSize[1]/2) + 12, statsFont, BBString, Graphics.TEXT_JUSTIFY_LEFT);
         dc.drawBitmap(posX-15, posY-31, BBImg);
@@ -247,7 +247,7 @@ class DHWatch2View extends WatchUi.WatchFace {
                 dc.drawArc(posX, posY, 40, Graphics.ARC_CLOCKWISE, 90, 90);
             }
         }
-        dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
+        dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
         var calSize = dc.getTextDimensions(calString, statsFont);
         dc.drawText(posX - Math.round(calSize[0]/2), posY - Math.round(calSize[1]/2) + 12, statsFont, calString, Graphics.TEXT_JUSTIFY_LEFT);
         dc.drawBitmap(posX-15, posY-31, calImg);
