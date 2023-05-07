@@ -11,190 +11,191 @@
 <entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2App.mc" id="5" lineNum="7" parent="globals/DHWatch2App" pc="268435551" symbol="initialize"/>
 <entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2App.mc" id="5" lineNum="8" parent="globals/DHWatch2App" pc="268435553" symbol="initialize"/>
 <entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2App.mc" id="6" lineNum="16" parent="globals/DHWatch2App" pc="268435572" symbol="onStop"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="7" lineNum="13" parent="globals/DHWatch2View" pc="268435575" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="8" lineNum="86" parent="globals/DHWatch2View" pc="268435594" symbol="drawTime"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="8" lineNum="88" parent="globals/DHWatch2View" pc="268435598" symbol="drawTime"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="8" lineNum="89" parent="globals/DHWatch2View" pc="268435615" symbol="drawTime"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="8" lineNum="90" parent="globals/DHWatch2View" pc="268435639" symbol="drawTime"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="8" lineNum="92" parent="globals/DHWatch2View" pc="268435663" symbol="drawTime"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="8" lineNum="93" parent="globals/DHWatch2View" pc="268435679" symbol="drawTime"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="8" lineNum="94" parent="globals/DHWatch2View" pc="268435695" symbol="drawTime"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="8" lineNum="95" parent="globals/DHWatch2View" pc="268435717" symbol="drawTime"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="8" lineNum="96" parent="globals/DHWatch2View" pc="268435760" symbol="drawTime"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="8" lineNum="97" parent="globals/DHWatch2View" pc="268435782" symbol="drawTime"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="256" parent="globals/DHWatch2View" pc="268435826" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="257" parent="globals/DHWatch2View" pc="268435830" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="258" parent="globals/DHWatch2View" pc="268435847" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="259" parent="globals/DHWatch2View" pc="268435857" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="260" parent="globals/DHWatch2View" pc="268435867" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="261" parent="globals/DHWatch2View" pc="268435884" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="262" parent="globals/DHWatch2View" pc="268435906" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="264" parent="globals/DHWatch2View" pc="268435923" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="265" parent="globals/DHWatch2View" pc="268435934" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="269" parent="globals/DHWatch2View" pc="268435991" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="270" parent="globals/DHWatch2View" pc="268436002" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="272" parent="globals/DHWatch2View" pc="268436056" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="126" parent="globals/DHWatch2View" pc="268436099" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="127" parent="globals/DHWatch2View" pc="268436103" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="128" parent="globals/DHWatch2View" pc="268436158" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="130" parent="globals/DHWatch2View" pc="268436213" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="7" lineNum="14" parent="globals/DHWatch2View" pc="268435575" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="8" lineNum="87" parent="globals/DHWatch2View" pc="268435594" symbol="drawTime"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="8" lineNum="89" parent="globals/DHWatch2View" pc="268435598" symbol="drawTime"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="8" lineNum="90" parent="globals/DHWatch2View" pc="268435615" symbol="drawTime"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="8" lineNum="91" parent="globals/DHWatch2View" pc="268435639" symbol="drawTime"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="8" lineNum="93" parent="globals/DHWatch2View" pc="268435663" symbol="drawTime"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="8" lineNum="94" parent="globals/DHWatch2View" pc="268435679" symbol="drawTime"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="8" lineNum="95" parent="globals/DHWatch2View" pc="268435695" symbol="drawTime"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="8" lineNum="96" parent="globals/DHWatch2View" pc="268435717" symbol="drawTime"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="8" lineNum="97" parent="globals/DHWatch2View" pc="268435760" symbol="drawTime"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="8" lineNum="98" parent="globals/DHWatch2View" pc="268435782" symbol="drawTime"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="258" parent="globals/DHWatch2View" pc="268435826" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="259" parent="globals/DHWatch2View" pc="268435830" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="260" parent="globals/DHWatch2View" pc="268435847" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="261" parent="globals/DHWatch2View" pc="268435857" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="262" parent="globals/DHWatch2View" pc="268435867" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="263" parent="globals/DHWatch2View" pc="268435884" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="264" parent="globals/DHWatch2View" pc="268435906" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="266" parent="globals/DHWatch2View" pc="268435923" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="267" parent="globals/DHWatch2View" pc="268435934" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="271" parent="globals/DHWatch2View" pc="268435991" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="272" parent="globals/DHWatch2View" pc="268436002" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="9" lineNum="274" parent="globals/DHWatch2View" pc="268436056" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="127" parent="globals/DHWatch2View" pc="268436099" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="128" parent="globals/DHWatch2View" pc="268436103" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="129" parent="globals/DHWatch2View" pc="268436158" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="131" parent="globals/DHWatch2View" pc="268436213" symbol="drawSteps"/>
 <entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="132" parent="globals/DHWatch2View" pc="268436236" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="131" parent="globals/DHWatch2View" pc="268436236" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="133" parent="globals/DHWatch2View" pc="268436247" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="135" parent="globals/DHWatch2View" pc="268436263" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="136" parent="globals/DHWatch2View" pc="268436288" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="139" parent="globals/DHWatch2View" pc="268436307" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="141" parent="globals/DHWatch2View" pc="268436330" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="142" parent="globals/DHWatch2View" pc="268436347" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="143" parent="globals/DHWatch2View" pc="268436369" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="144" parent="globals/DHWatch2View" pc="268436405" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="145" parent="globals/DHWatch2View" pc="268436427" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="146" parent="globals/DHWatch2View" pc="268436452" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="147" parent="globals/DHWatch2View" pc="268436463" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="148" parent="globals/DHWatch2View" pc="268436474" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="150" parent="globals/DHWatch2View" pc="268436522" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="153" parent="globals/DHWatch2View" pc="268436561" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="154" parent="globals/DHWatch2View" pc="268436583" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="155" parent="globals/DHWatch2View" pc="268436606" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="156" parent="globals/DHWatch2View" pc="268436703" symbol="drawSteps"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="159" parent="globals/DHWatch2View" pc="268436740" symbol="drawHR"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="160" parent="globals/DHWatch2View" pc="268436744" symbol="drawHR"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="161" parent="globals/DHWatch2View" pc="268436808" symbol="drawHR"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="162" parent="globals/DHWatch2View" pc="268436872" symbol="drawHR"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="163" parent="globals/DHWatch2View" pc="268436889" symbol="drawHR"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="164" parent="globals/DHWatch2View" pc="268436896" symbol="drawHR"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="165" parent="globals/DHWatch2View" pc="268436903" symbol="drawHR"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="166" parent="globals/DHWatch2View" pc="268436916" symbol="drawHR"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="169" parent="globals/DHWatch2View" pc="268436941" symbol="drawHR"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="170" parent="globals/DHWatch2View" pc="268436974" symbol="drawHR"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="171" parent="globals/DHWatch2View" pc="268436981" symbol="drawHR"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="174" parent="globals/DHWatch2View" pc="268437003" symbol="drawHR"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="175" parent="globals/DHWatch2View" pc="268437020" symbol="drawHR"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="176" parent="globals/DHWatch2View" pc="268437042" symbol="drawHR"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="177" parent="globals/DHWatch2View" pc="268437078" symbol="drawHR"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="178" parent="globals/DHWatch2View" pc="268437101" symbol="drawHR"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="179" parent="globals/DHWatch2View" pc="268437123" symbol="drawHR"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="180" parent="globals/DHWatch2View" pc="268437220" symbol="drawHR"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="12" lineNum="287" parent="globals/DHWatch2View" pc="268437257" symbol="onHide"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="12" lineNum="288" parent="globals/DHWatch2View" pc="268437259" symbol="onHide"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="194" parent="globals/DHWatch2View" pc="268437270" symbol="drawBB"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="195" parent="globals/DHWatch2View" pc="268437274" symbol="drawBB"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="196" parent="globals/DHWatch2View" pc="268437329" symbol="drawBB"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="198" parent="globals/DHWatch2View" pc="268437384" symbol="drawBB"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="199" parent="globals/DHWatch2View" pc="268437391" symbol="drawBB"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="200" parent="globals/DHWatch2View" pc="268437414" symbol="drawBB"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="201" parent="globals/DHWatch2View" pc="268437421" symbol="drawBB"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="203" parent="globals/DHWatch2View" pc="268437443" symbol="drawBB"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="205" parent="globals/DHWatch2View" pc="268437476" symbol="drawBB"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="206" parent="globals/DHWatch2View" pc="268437493" symbol="drawBB"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="207" parent="globals/DHWatch2View" pc="268437515" symbol="drawBB"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="208" parent="globals/DHWatch2View" pc="268437551" symbol="drawBB"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="209" parent="globals/DHWatch2View" pc="268437573" symbol="drawBB"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="210" parent="globals/DHWatch2View" pc="268437601" symbol="drawBB"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="211" parent="globals/DHWatch2View" pc="268437612" symbol="drawBB"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="212" parent="globals/DHWatch2View" pc="268437623" symbol="drawBB"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="214" parent="globals/DHWatch2View" pc="268437671" symbol="drawBB"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="217" parent="globals/DHWatch2View" pc="268437710" symbol="drawBB"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="218" parent="globals/DHWatch2View" pc="268437732" symbol="drawBB"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="219" parent="globals/DHWatch2View" pc="268437755" symbol="drawBB"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="220" parent="globals/DHWatch2View" pc="268437852" symbol="drawBB"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="14" lineNum="277" parent="globals/DHWatch2View" pc="268437889" symbol="noBT"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="14" lineNum="278" parent="globals/DHWatch2View" pc="268437893" symbol="noBT"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="14" lineNum="279" parent="globals/DHWatch2View" pc="268437916" symbol="noBT"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="14" lineNum="280" parent="globals/DHWatch2View" pc="268437924" symbol="noBT"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="15" lineNum="292" parent="globals/DHWatch2View" pc="268437958" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="15" lineNum="293" parent="globals/DHWatch2View" pc="268437960" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="17" lineNum="81" parent="globals/DHWatch2View" pc="268437971" symbol="drawFigure"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="17" lineNum="82" parent="globals/DHWatch2View" pc="268437973" symbol="drawFigure"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="36" parent="globals/DHWatch2View" pc="268438004" symbol="onLayout"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="37" parent="globals/DHWatch2View" pc="268438006" symbol="onLayout"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="38" parent="globals/DHWatch2View" pc="268438047" symbol="onLayout"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="39" parent="globals/DHWatch2View" pc="268438094" symbol="onLayout"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="40" parent="globals/DHWatch2View" pc="268438141" symbol="onLayout"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="41" parent="globals/DHWatch2View" pc="268438188" symbol="onLayout"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="42" parent="globals/DHWatch2View" pc="268438235" symbol="onLayout"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="43" parent="globals/DHWatch2View" pc="268438282" symbol="onLayout"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="44" parent="globals/DHWatch2View" pc="268438329" symbol="onLayout"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="45" parent="globals/DHWatch2View" pc="268438376" symbol="onLayout"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="46" parent="globals/DHWatch2View" pc="268438423" symbol="onLayout"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="47" parent="globals/DHWatch2View" pc="268438442" symbol="onLayout"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="48" parent="globals/DHWatch2View" pc="268438461" symbol="onLayout"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="49" parent="globals/DHWatch2View" pc="268438508" symbol="onLayout"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="50" parent="globals/DHWatch2View" pc="268438555" symbol="onLayout"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="19" lineNum="183" parent="globals/DHWatch2View" pc="268438603" symbol="drawNoti"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="19" lineNum="184" parent="globals/DHWatch2View" pc="268438607" symbol="drawNoti"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="133" parent="globals/DHWatch2View" pc="268436236" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="134" parent="globals/DHWatch2View" pc="268436247" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="136" parent="globals/DHWatch2View" pc="268436263" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="137" parent="globals/DHWatch2View" pc="268436288" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="140" parent="globals/DHWatch2View" pc="268436307" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="142" parent="globals/DHWatch2View" pc="268436330" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="143" parent="globals/DHWatch2View" pc="268436347" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="144" parent="globals/DHWatch2View" pc="268436369" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="145" parent="globals/DHWatch2View" pc="268436405" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="146" parent="globals/DHWatch2View" pc="268436427" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="147" parent="globals/DHWatch2View" pc="268436452" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="148" parent="globals/DHWatch2View" pc="268436463" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="149" parent="globals/DHWatch2View" pc="268436474" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="151" parent="globals/DHWatch2View" pc="268436522" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="154" parent="globals/DHWatch2View" pc="268436561" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="155" parent="globals/DHWatch2View" pc="268436583" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="156" parent="globals/DHWatch2View" pc="268436606" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="10" lineNum="157" parent="globals/DHWatch2View" pc="268436703" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="160" parent="globals/DHWatch2View" pc="268436740" symbol="drawHR"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="161" parent="globals/DHWatch2View" pc="268436744" symbol="drawHR"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="162" parent="globals/DHWatch2View" pc="268436808" symbol="drawHR"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="163" parent="globals/DHWatch2View" pc="268436872" symbol="drawHR"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="164" parent="globals/DHWatch2View" pc="268436889" symbol="drawHR"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="165" parent="globals/DHWatch2View" pc="268436896" symbol="drawHR"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="166" parent="globals/DHWatch2View" pc="268436903" symbol="drawHR"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="167" parent="globals/DHWatch2View" pc="268436916" symbol="drawHR"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="170" parent="globals/DHWatch2View" pc="268436941" symbol="drawHR"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="171" parent="globals/DHWatch2View" pc="268436974" symbol="drawHR"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="172" parent="globals/DHWatch2View" pc="268436981" symbol="drawHR"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="175" parent="globals/DHWatch2View" pc="268437003" symbol="drawHR"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="176" parent="globals/DHWatch2View" pc="268437020" symbol="drawHR"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="177" parent="globals/DHWatch2View" pc="268437042" symbol="drawHR"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="178" parent="globals/DHWatch2View" pc="268437078" symbol="drawHR"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="179" parent="globals/DHWatch2View" pc="268437101" symbol="drawHR"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="180" parent="globals/DHWatch2View" pc="268437123" symbol="drawHR"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="11" lineNum="181" parent="globals/DHWatch2View" pc="268437220" symbol="drawHR"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="12" lineNum="289" parent="globals/DHWatch2View" pc="268437257" symbol="onHide"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="12" lineNum="290" parent="globals/DHWatch2View" pc="268437259" symbol="onHide"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="195" parent="globals/DHWatch2View" pc="268437270" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="196" parent="globals/DHWatch2View" pc="268437274" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="197" parent="globals/DHWatch2View" pc="268437329" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="199" parent="globals/DHWatch2View" pc="268437384" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="200" parent="globals/DHWatch2View" pc="268437391" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="201" parent="globals/DHWatch2View" pc="268437398" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="202" parent="globals/DHWatch2View" pc="268437421" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="203" parent="globals/DHWatch2View" pc="268437428" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="204" parent="globals/DHWatch2View" pc="268437447" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="207" parent="globals/DHWatch2View" pc="268437483" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="208" parent="globals/DHWatch2View" pc="268437500" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="209" parent="globals/DHWatch2View" pc="268437522" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="210" parent="globals/DHWatch2View" pc="268437558" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="211" parent="globals/DHWatch2View" pc="268437580" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="212" parent="globals/DHWatch2View" pc="268437608" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="213" parent="globals/DHWatch2View" pc="268437619" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="214" parent="globals/DHWatch2View" pc="268437630" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="216" parent="globals/DHWatch2View" pc="268437678" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="219" parent="globals/DHWatch2View" pc="268437717" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="220" parent="globals/DHWatch2View" pc="268437739" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="221" parent="globals/DHWatch2View" pc="268437762" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="13" lineNum="222" parent="globals/DHWatch2View" pc="268437859" symbol="drawBB"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="14" lineNum="279" parent="globals/DHWatch2View" pc="268437896" symbol="noBT"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="14" lineNum="280" parent="globals/DHWatch2View" pc="268437900" symbol="noBT"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="14" lineNum="281" parent="globals/DHWatch2View" pc="268437923" symbol="noBT"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="14" lineNum="282" parent="globals/DHWatch2View" pc="268437931" symbol="noBT"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="15" lineNum="294" parent="globals/DHWatch2View" pc="268437965" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="15" lineNum="295" parent="globals/DHWatch2View" pc="268437967" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="17" lineNum="82" parent="globals/DHWatch2View" pc="268437978" symbol="drawFigure"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="17" lineNum="83" parent="globals/DHWatch2View" pc="268437980" symbol="drawFigure"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="37" parent="globals/DHWatch2View" pc="268438011" symbol="onLayout"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="38" parent="globals/DHWatch2View" pc="268438013" symbol="onLayout"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="39" parent="globals/DHWatch2View" pc="268438054" symbol="onLayout"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="40" parent="globals/DHWatch2View" pc="268438101" symbol="onLayout"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="41" parent="globals/DHWatch2View" pc="268438148" symbol="onLayout"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="42" parent="globals/DHWatch2View" pc="268438195" symbol="onLayout"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="43" parent="globals/DHWatch2View" pc="268438242" symbol="onLayout"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="44" parent="globals/DHWatch2View" pc="268438289" symbol="onLayout"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="45" parent="globals/DHWatch2View" pc="268438336" symbol="onLayout"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="46" parent="globals/DHWatch2View" pc="268438383" symbol="onLayout"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="47" parent="globals/DHWatch2View" pc="268438430" symbol="onLayout"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="48" parent="globals/DHWatch2View" pc="268438449" symbol="onLayout"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="49" parent="globals/DHWatch2View" pc="268438468" symbol="onLayout"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="50" parent="globals/DHWatch2View" pc="268438515" symbol="onLayout"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="18" lineNum="51" parent="globals/DHWatch2View" pc="268438562" symbol="onLayout"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="19" lineNum="184" parent="globals/DHWatch2View" pc="268438610" symbol="drawNoti"/>
 <entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="19" lineNum="185" parent="globals/DHWatch2View" pc="268438614" symbol="drawNoti"/>
 <entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="19" lineNum="186" parent="globals/DHWatch2View" pc="268438621" symbol="drawNoti"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="19" lineNum="187" parent="globals/DHWatch2View" pc="268438644" symbol="drawNoti"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="19" lineNum="188" parent="globals/DHWatch2View" pc="268438655" symbol="drawNoti"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="19" lineNum="189" parent="globals/DHWatch2View" pc="268438677" symbol="drawNoti"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="19" lineNum="190" parent="globals/DHWatch2View" pc="268438717" symbol="drawNoti"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="223" parent="globals/DHWatch2View" pc="268438757" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="224" parent="globals/DHWatch2View" pc="268438761" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="225" parent="globals/DHWatch2View" pc="268438816" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="227" parent="globals/DHWatch2View" pc="268438871" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="229" parent="globals/DHWatch2View" pc="268438894" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="228" parent="globals/DHWatch2View" pc="268438894" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="230" parent="globals/DHWatch2View" pc="268438905" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="232" parent="globals/DHWatch2View" pc="268438921" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="233" parent="globals/DHWatch2View" pc="268438961" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="236" parent="globals/DHWatch2View" pc="268438985" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="19" lineNum="187" parent="globals/DHWatch2View" pc="268438628" symbol="drawNoti"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="19" lineNum="188" parent="globals/DHWatch2View" pc="268438651" symbol="drawNoti"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="19" lineNum="189" parent="globals/DHWatch2View" pc="268438662" symbol="drawNoti"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="19" lineNum="190" parent="globals/DHWatch2View" pc="268438684" symbol="drawNoti"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="19" lineNum="191" parent="globals/DHWatch2View" pc="268438724" symbol="drawNoti"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="225" parent="globals/DHWatch2View" pc="268438764" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="226" parent="globals/DHWatch2View" pc="268438768" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="227" parent="globals/DHWatch2View" pc="268438823" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="229" parent="globals/DHWatch2View" pc="268438878" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="231" parent="globals/DHWatch2View" pc="268438901" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="230" parent="globals/DHWatch2View" pc="268438901" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="232" parent="globals/DHWatch2View" pc="268438912" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="234" parent="globals/DHWatch2View" pc="268438928" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="235" parent="globals/DHWatch2View" pc="268438968" symbol="drawCal"/>
 <entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="238" parent="globals/DHWatch2View" pc="268438992" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="239" parent="globals/DHWatch2View" pc="268439009" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="240" parent="globals/DHWatch2View" pc="268439031" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="241" parent="globals/DHWatch2View" pc="268439067" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="242" parent="globals/DHWatch2View" pc="268439089" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="243" parent="globals/DHWatch2View" pc="268439114" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="244" parent="globals/DHWatch2View" pc="268439125" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="245" parent="globals/DHWatch2View" pc="268439136" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="247" parent="globals/DHWatch2View" pc="268439184" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="250" parent="globals/DHWatch2View" pc="268439223" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="251" parent="globals/DHWatch2View" pc="268439245" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="252" parent="globals/DHWatch2View" pc="268439268" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="253" parent="globals/DHWatch2View" pc="268439365" symbol="drawCal"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="110" parent="globals/DHWatch2View" pc="268439402" symbol="drawBattery"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="111" parent="globals/DHWatch2View" pc="268439406" symbol="drawBattery"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="112" parent="globals/DHWatch2View" pc="268439429" symbol="drawBattery"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="113" parent="globals/DHWatch2View" pc="268439478" symbol="drawBattery"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="114" parent="globals/DHWatch2View" pc="268439527" symbol="drawBattery"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="115" parent="globals/DHWatch2View" pc="268439544" symbol="drawBattery"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="116" parent="globals/DHWatch2View" pc="268439566" symbol="drawBattery"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="117" parent="globals/DHWatch2View" pc="268439602" symbol="drawBattery"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="118" parent="globals/DHWatch2View" pc="268439624" symbol="drawBattery"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="119" parent="globals/DHWatch2View" pc="268439669" symbol="drawBattery"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="120" parent="globals/DHWatch2View" pc="268439691" symbol="drawBattery"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="121" parent="globals/DHWatch2View" pc="268439709" symbol="drawBattery"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="122" parent="globals/DHWatch2View" pc="268439732" symbol="drawBattery"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="123" parent="globals/DHWatch2View" pc="268439829" symbol="drawBattery"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="22" lineNum="297" parent="globals/DHWatch2View" pc="268439866" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="22" lineNum="298" parent="globals/DHWatch2View" pc="268439868" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="23" lineNum="31" parent="globals/DHWatch2View" pc="268439879" symbol="initialize"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="23" lineNum="32" parent="globals/DHWatch2View" pc="268439881" symbol="initialize"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="60" parent="globals/DHWatch2View" pc="268439900" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="62" parent="globals/DHWatch2View" pc="268439902" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="65" parent="globals/DHWatch2View" pc="268439926" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="66" parent="globals/DHWatch2View" pc="268439940" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="67" parent="globals/DHWatch2View" pc="268439954" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="68" parent="globals/DHWatch2View" pc="268439968" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="69" parent="globals/DHWatch2View" pc="268439995" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="70" parent="globals/DHWatch2View" pc="268440009" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="71" parent="globals/DHWatch2View" pc="268440023" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="72" parent="globals/DHWatch2View" pc="268440037" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="73" parent="globals/DHWatch2View" pc="268440051" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="74" parent="globals/DHWatch2View" pc="268440065" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="75" parent="globals/DHWatch2View" pc="268440079" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="76" parent="globals/DHWatch2View" pc="268440093" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="25" lineNum="100" parent="globals/DHWatch2View" pc="268440111" symbol="drawDate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="25" lineNum="101" parent="globals/DHWatch2View" pc="268440115" symbol="drawDate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="25" lineNum="102" parent="globals/DHWatch2View" pc="268440132" symbol="drawDate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="25" lineNum="103" parent="globals/DHWatch2View" pc="268440156" symbol="drawDate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="25" lineNum="104" parent="globals/DHWatch2View" pc="268440216" symbol="drawDate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="25" lineNum="105" parent="globals/DHWatch2View" pc="268440232" symbol="drawDate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="25" lineNum="106" parent="globals/DHWatch2View" pc="268440248" symbol="drawDate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="25" lineNum="107" parent="globals/DHWatch2View" pc="268440270" symbol="drawDate"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\bin\\gen\\006-B3851-00\\source\\Rez.mcgen" id="26" lineNum="7" parent="globals/Rez" pc="268440314" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\bin\\gen\\006-B3851-00\\source\\Rez.mcgen" id="27" lineNum="30" parent="globals/Rez/Layouts" pc="268440338" symbol="WatchFace"/>
-<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\bin\\gen\\006-B3851-00\\source\\Rez.mcgen" id="27" lineNum="31" parent="globals/Rez/Layouts" pc="268440348" symbol="WatchFace"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="240" parent="globals/DHWatch2View" pc="268438999" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="241" parent="globals/DHWatch2View" pc="268439016" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="242" parent="globals/DHWatch2View" pc="268439038" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="243" parent="globals/DHWatch2View" pc="268439074" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="244" parent="globals/DHWatch2View" pc="268439096" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="245" parent="globals/DHWatch2View" pc="268439121" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="246" parent="globals/DHWatch2View" pc="268439132" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="247" parent="globals/DHWatch2View" pc="268439143" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="249" parent="globals/DHWatch2View" pc="268439191" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="252" parent="globals/DHWatch2View" pc="268439230" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="253" parent="globals/DHWatch2View" pc="268439252" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="254" parent="globals/DHWatch2View" pc="268439275" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="20" lineNum="255" parent="globals/DHWatch2View" pc="268439372" symbol="drawCal"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="111" parent="globals/DHWatch2View" pc="268439409" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="112" parent="globals/DHWatch2View" pc="268439413" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="113" parent="globals/DHWatch2View" pc="268439436" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="114" parent="globals/DHWatch2View" pc="268439485" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="115" parent="globals/DHWatch2View" pc="268439534" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="116" parent="globals/DHWatch2View" pc="268439551" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="117" parent="globals/DHWatch2View" pc="268439573" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="118" parent="globals/DHWatch2View" pc="268439609" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="119" parent="globals/DHWatch2View" pc="268439631" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="120" parent="globals/DHWatch2View" pc="268439676" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="121" parent="globals/DHWatch2View" pc="268439698" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="122" parent="globals/DHWatch2View" pc="268439716" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="123" parent="globals/DHWatch2View" pc="268439739" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="21" lineNum="124" parent="globals/DHWatch2View" pc="268439836" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="22" lineNum="299" parent="globals/DHWatch2View" pc="268439873" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="22" lineNum="300" parent="globals/DHWatch2View" pc="268439875" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="23" lineNum="32" parent="globals/DHWatch2View" pc="268439886" symbol="initialize"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="23" lineNum="33" parent="globals/DHWatch2View" pc="268439888" symbol="initialize"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="61" parent="globals/DHWatch2View" pc="268439907" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="63" parent="globals/DHWatch2View" pc="268439909" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="66" parent="globals/DHWatch2View" pc="268439933" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="67" parent="globals/DHWatch2View" pc="268439947" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="68" parent="globals/DHWatch2View" pc="268439961" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="69" parent="globals/DHWatch2View" pc="268439975" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="70" parent="globals/DHWatch2View" pc="268440002" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="71" parent="globals/DHWatch2View" pc="268440016" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="72" parent="globals/DHWatch2View" pc="268440030" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="73" parent="globals/DHWatch2View" pc="268440044" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="74" parent="globals/DHWatch2View" pc="268440058" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="75" parent="globals/DHWatch2View" pc="268440072" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="76" parent="globals/DHWatch2View" pc="268440086" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="24" lineNum="77" parent="globals/DHWatch2View" pc="268440100" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="25" lineNum="101" parent="globals/DHWatch2View" pc="268440118" symbol="drawDate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="25" lineNum="102" parent="globals/DHWatch2View" pc="268440122" symbol="drawDate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="25" lineNum="103" parent="globals/DHWatch2View" pc="268440139" symbol="drawDate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="25" lineNum="104" parent="globals/DHWatch2View" pc="268440163" symbol="drawDate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="25" lineNum="105" parent="globals/DHWatch2View" pc="268440223" symbol="drawDate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="25" lineNum="106" parent="globals/DHWatch2View" pc="268440239" symbol="drawDate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="25" lineNum="107" parent="globals/DHWatch2View" pc="268440255" symbol="drawDate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\source\\DHWatch2View.mc" id="25" lineNum="108" parent="globals/DHWatch2View" pc="268440277" symbol="drawDate"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\bin\\gen\\006-B3851-00\\source\\Rez.mcgen" id="26" lineNum="7" parent="globals/Rez" pc="268440321" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\bin\\gen\\006-B3851-00\\source\\Rez.mcgen" id="27" lineNum="30" parent="globals/Rez/Layouts" pc="268440345" symbol="WatchFace"/>
+<entry filename="C:\\Users\\Daan Wielens\\STACK\\Synced\\Sports\\Garmin Developer\\DHWatch2\\bin\\gen\\006-B3851-00\\source\\Rez.mcgen" id="27" lineNum="31" parent="globals/Rez/Layouts" pc="268440355" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388639" module="true" symbol="Graphics"/>
@@ -228,6 +229,7 @@
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
 <entry id="23" method="true" symbol="drawNoti"/>
+<entry id="8391489" module="true" symbol="Weather"/>
 <entry id="25" method="true" symbol="drawSteps"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="36" module="true" symbol="Menus"/>
@@ -306,45 +308,45 @@
 <entry endPc="268437255" name="HRstr" stackId="5" startPc="268436744"/>
 <entry endPc="268437002" name="latestHRsample" stackId="6" startPc="268436941"/>
 <entry endPc="268437255" name="HRSize" stackId="7" startPc="268436744"/>
-<entry arg="true" endPc="268437888" name="dc" stackId="1" startPc="268437270"/>
-<entry endPc="268437887" name="posX" stackId="2" startPc="268437274"/>
-<entry endPc="268437887" name="posY" stackId="3" startPc="268437274"/>
-<entry endPc="268437887" name="BBval" stackId="4" startPc="268437274"/>
-<entry endPc="268437887" name="BBhist" stackId="5" startPc="268437274"/>
-<entry endPc="268437887" name="BBString" stackId="6" startPc="268437274"/>
-<entry endPc="268437887" name="BBRatio" stackId="7" startPc="268437274"/>
-<entry endPc="268437887" name="BBSize" stackId="8" startPc="268437274"/>
-<entry arg="true" endPc="268437957" name="dc" stackId="1" startPc="268437889"/>
-<entry endPc="268437956" name="BTstate" stackId="2" startPc="268437893"/>
-<entry arg="true" endPc="268438003" name="dc" stackId="1" startPc="268437971"/>
-<entry arg="true" endPc="268438602" name="dc" stackId="1" startPc="268438004"/>
-<entry arg="true" endPc="268438756" name="dc" stackId="1" startPc="268438603"/>
-<entry endPc="268438755" name="posX" stackId="2" startPc="268438607"/>
-<entry endPc="268438755" name="posY" stackId="3" startPc="268438607"/>
-<entry endPc="268438755" name="notCount" stackId="4" startPc="268438607"/>
-<entry arg="true" endPc="268439401" name="dc" stackId="1" startPc="268438757"/>
-<entry endPc="268439400" name="posX" stackId="2" startPc="268438761"/>
-<entry endPc="268439400" name="posY" stackId="3" startPc="268438761"/>
-<entry endPc="268439400" name="calCount" stackId="4" startPc="268438761"/>
-<entry endPc="268439400" name="calString" stackId="5" startPc="268438761"/>
-<entry endPc="268438984" name="calkCount" stackId="6" startPc="268438921"/>
-<entry endPc="268439400" name="calGoal" stackId="7" startPc="268438761"/>
-<entry endPc="268439400" name="calRatio" stackId="8" startPc="268438761"/>
-<entry endPc="268439400" name="calSize" stackId="9" startPc="268438761"/>
-<entry arg="true" endPc="268439865" name="dc" stackId="1" startPc="268439402"/>
-<entry endPc="268439864" name="sysbat" stackId="2" startPc="268439406"/>
-<entry endPc="268439864" name="posX" stackId="3" startPc="268439406"/>
-<entry endPc="268439864" name="posY" stackId="4" startPc="268439406"/>
-<entry endPc="268439864" name="sysbatstr" stackId="5" startPc="268439406"/>
-<entry endPc="268439864" name="batSize" stackId="6" startPc="268439406"/>
-<entry arg="true" endPc="268440110" name="dc" stackId="1" startPc="268439900"/>
-<entry arg="true" endPc="268440313" name="dc" stackId="1" startPc="268440111"/>
-<entry endPc="268440312" name="time" stackId="2" startPc="268440115"/>
-<entry endPc="268440312" name="date" stackId="3" startPc="268440115"/>
-<entry endPc="268440312" name="dateString" stackId="4" startPc="268440115"/>
-<entry endPc="268440312" name="x" stackId="5" startPc="268440115"/>
-<entry endPc="268440312" name="y" stackId="6" startPc="268440115"/>
-<entry arg="true" endPc="268440354" name="dc" stackId="1" startPc="268440338"/>
+<entry arg="true" endPc="268437895" name="dc" stackId="1" startPc="268437270"/>
+<entry endPc="268437894" name="posX" stackId="2" startPc="268437274"/>
+<entry endPc="268437894" name="posY" stackId="3" startPc="268437274"/>
+<entry endPc="268437894" name="BBval" stackId="4" startPc="268437274"/>
+<entry endPc="268437894" name="BBString" stackId="5" startPc="268437274"/>
+<entry endPc="268437894" name="BBhist" stackId="6" startPc="268437274"/>
+<entry endPc="268437894" name="BBRatio" stackId="7" startPc="268437274"/>
+<entry endPc="268437894" name="BBSize" stackId="8" startPc="268437274"/>
+<entry arg="true" endPc="268437964" name="dc" stackId="1" startPc="268437896"/>
+<entry endPc="268437963" name="BTstate" stackId="2" startPc="268437900"/>
+<entry arg="true" endPc="268438010" name="dc" stackId="1" startPc="268437978"/>
+<entry arg="true" endPc="268438609" name="dc" stackId="1" startPc="268438011"/>
+<entry arg="true" endPc="268438763" name="dc" stackId="1" startPc="268438610"/>
+<entry endPc="268438762" name="posX" stackId="2" startPc="268438614"/>
+<entry endPc="268438762" name="posY" stackId="3" startPc="268438614"/>
+<entry endPc="268438762" name="notCount" stackId="4" startPc="268438614"/>
+<entry arg="true" endPc="268439408" name="dc" stackId="1" startPc="268438764"/>
+<entry endPc="268439407" name="posX" stackId="2" startPc="268438768"/>
+<entry endPc="268439407" name="posY" stackId="3" startPc="268438768"/>
+<entry endPc="268439407" name="calCount" stackId="4" startPc="268438768"/>
+<entry endPc="268439407" name="calString" stackId="5" startPc="268438768"/>
+<entry endPc="268438991" name="calkCount" stackId="6" startPc="268438928"/>
+<entry endPc="268439407" name="calGoal" stackId="7" startPc="268438768"/>
+<entry endPc="268439407" name="calRatio" stackId="8" startPc="268438768"/>
+<entry endPc="268439407" name="calSize" stackId="9" startPc="268438768"/>
+<entry arg="true" endPc="268439872" name="dc" stackId="1" startPc="268439409"/>
+<entry endPc="268439871" name="sysbat" stackId="2" startPc="268439413"/>
+<entry endPc="268439871" name="posX" stackId="3" startPc="268439413"/>
+<entry endPc="268439871" name="posY" stackId="4" startPc="268439413"/>
+<entry endPc="268439871" name="sysbatstr" stackId="5" startPc="268439413"/>
+<entry endPc="268439871" name="batSize" stackId="6" startPc="268439413"/>
+<entry arg="true" endPc="268440117" name="dc" stackId="1" startPc="268439907"/>
+<entry arg="true" endPc="268440320" name="dc" stackId="1" startPc="268440118"/>
+<entry endPc="268440319" name="time" stackId="2" startPc="268440122"/>
+<entry endPc="268440319" name="date" stackId="3" startPc="268440122"/>
+<entry endPc="268440319" name="dateString" stackId="4" startPc="268440122"/>
+<entry endPc="268440319" name="x" stackId="5" startPc="268440122"/>
+<entry endPc="268440319" name="y" stackId="6" startPc="268440122"/>
+<entry arg="true" endPc="268440361" name="dc" stackId="1" startPc="268440345"/>
 </localVars>
 <annotations>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
@@ -416,55 +418,55 @@
 <functionEntry accessMode="public" endPc="268437269" name="onHide" parent="DHWatch2View" startPc="268437257">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437888" name="drawBB" parent="DHWatch2View" startPc="268437270">
+<functionEntry accessMode="public" endPc="268437895" name="drawBB" parent="DHWatch2View" startPc="268437270">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437957" name="noBT" parent="DHWatch2View" startPc="268437889">
+<functionEntry accessMode="public" endPc="268437964" name="noBT" parent="DHWatch2View" startPc="268437896">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437970" name="onExitSleep" parent="DHWatch2View" startPc="268437958">
+<functionEntry accessMode="public" endPc="268437977" name="onExitSleep" parent="DHWatch2View" startPc="268437965">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="onShow" parent="DHWatch2View">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438003" name="drawFigure" parent="DHWatch2View" startPc="268437971">
+<functionEntry accessMode="public" endPc="268438010" name="drawFigure" parent="DHWatch2View" startPc="268437978">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438602" name="onLayout" parent="DHWatch2View" startPc="268438004">
+<functionEntry accessMode="public" endPc="268438609" name="onLayout" parent="DHWatch2View" startPc="268438011">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438756" name="drawNoti" parent="DHWatch2View" startPc="268438603">
+<functionEntry accessMode="public" endPc="268438763" name="drawNoti" parent="DHWatch2View" startPc="268438610">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439401" name="drawCal" parent="DHWatch2View" startPc="268438757">
+<functionEntry accessMode="public" endPc="268439408" name="drawCal" parent="DHWatch2View" startPc="268438764">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439865" name="drawBattery" parent="DHWatch2View" startPc="268439402">
+<functionEntry accessMode="public" endPc="268439872" name="drawBattery" parent="DHWatch2View" startPc="268439409">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439878" name="onEnterSleep" parent="DHWatch2View" startPc="268439866">
+<functionEntry accessMode="public" endPc="268439885" name="onEnterSleep" parent="DHWatch2View" startPc="268439873">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439899" name="initialize" parent="DHWatch2View" startPc="268439879">
+<functionEntry accessMode="public" endPc="268439906" name="initialize" parent="DHWatch2View" startPc="268439886">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268440110" name="onUpdate" parent="DHWatch2View" startPc="268439900">
+<functionEntry accessMode="public" endPc="268440117" name="onUpdate" parent="DHWatch2View" startPc="268439907">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268440313" name="drawDate" parent="DHWatch2View" startPc="268440111">
+<functionEntry accessMode="public" endPc="268440320" name="drawDate" parent="DHWatch2View" startPc="268440118">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268440337" name="&lt;init&gt;" parent="Rez" startPc="268440314">
+<functionEntry accessMode="public" endPc="268440344" name="&lt;init&gt;" parent="Rez" startPc="268440321">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
@@ -485,7 +487,7 @@
 <functionEntry accessMode="public" name="&lt;init&gt;" parent="JsonData">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268440354" name="WatchFace" parent="Layouts" startPc="268440338">
+<functionEntry accessMode="public" endPc="268440361" name="WatchFace" parent="Layouts" startPc="268440345">
 <param id="dc"/>
 <documentation/>
 </functionEntry>

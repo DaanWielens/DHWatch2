@@ -9,6 +9,7 @@ using Toybox.Time.Gregorian as Date;
 using Toybox.Time as Time;
 using Toybox.ActivityMonitor as Mon;
 using Toybox.Math as Math;
+import Toybox.Weather;
 
 class DHWatch2View extends WatchUi.WatchFace {
 
@@ -117,7 +118,7 @@ class DHWatch2View extends WatchUi.WatchFace {
         dc.setColor(Graphics.COLOR_DK_RED, Graphics.COLOR_TRANSPARENT);
         dc.drawArc(posX, posY, 40, Graphics.ARC_CLOCKWISE, 90, 90-(sysbat*3.6));
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
-        var sysbatstr = sysbat.format("%2d");
+        var sysbatstr = sysbat.format("%d");
         var batSize = dc.getTextDimensions(sysbatstr, statsFont);
         dc.drawText(posX - Math.round(batSize[0]/2), posY - Math.round(batSize[1]/2) + 12, statsFont, sysbatstr, Graphics.TEXT_JUSTIFY_LEFT);
         dc.drawBitmap(posX-15, posY-31, batImg);
@@ -196,11 +197,12 @@ class DHWatch2View extends WatchUi.WatchFace {
         var posY = 208-(208-57)*Math.cos(Math.PI*(2.8/4.toFloat()));
         // Get BB val; snippet from Garmin
         var BBval = 0;
+        var BBString = "--";
         var BBhist = Toybox.SensorHistory.getBodyBatteryHistory({});
         if (BBhist != null) {
             BBval = BBhist.next().data;
+            BBString = Math.round(BBval).format("%d");
         }
-        var BBString = Math.round(BBval).format("%02d");
         // Create widget
         dc.setPenWidth(5);
         dc.setColor(Graphics.COLOR_DK_GRAY, Graphics.COLOR_TRANSPARENT);
