@@ -10,6 +10,7 @@ using Toybox.Time as Time;
 using Toybox.ActivityMonitor as Mon;
 using Toybox.Math as Math;
 import Toybox.Weather;
+import Toybox.Complications;
 
 class DHWatch2View extends WatchUi.WatchFace {
 
@@ -94,7 +95,7 @@ class DHWatch2View extends WatchUi.WatchFace {
         var y = screenHeight / 2;
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
         dc.drawText(x + 20, y - 130, clockFont, hours, Graphics.TEXT_JUSTIFY_LEFT);
-        dc.setColor(Graphics.COLOR_DK_RED, Graphics.COLOR_TRANSPARENT);
+        dc.setColor(Graphics.COLOR_RED, Graphics.COLOR_TRANSPARENT);
         dc.drawText(x + 20, y - 30, clockFont, minutes, Graphics.TEXT_JUSTIFY_LEFT);
     }
 
@@ -115,7 +116,7 @@ class DHWatch2View extends WatchUi.WatchFace {
         dc.setPenWidth(5);
         dc.setColor(Graphics.COLOR_DK_GRAY, Graphics.COLOR_TRANSPARENT);
         dc.drawArc(posX, posY, 40, Graphics.ARC_CLOCKWISE, 90, 90);
-        dc.setColor(Graphics.COLOR_DK_RED, Graphics.COLOR_TRANSPARENT);
+        dc.setColor(Graphics.COLOR_RED, Graphics.COLOR_TRANSPARENT);
         dc.drawArc(posX, posY, 40, Graphics.ARC_CLOCKWISE, 90, 90-(sysbat*3.6));
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
         var sysbatstr = sysbat.format("%d");
@@ -142,7 +143,7 @@ class DHWatch2View extends WatchUi.WatchFace {
         dc.setPenWidth(5);
         dc.setColor(Graphics.COLOR_DK_GRAY, Graphics.COLOR_TRANSPARENT);
         dc.drawArc(posX, posY, 40, Graphics.ARC_CLOCKWISE, 90, 90);
-        dc.setColor(Graphics.COLOR_DK_RED, Graphics.COLOR_TRANSPARENT);
+        dc.setColor(Graphics.COLOR_RED, Graphics.COLOR_TRANSPARENT);
         var stepRatio = stepCount.toFloat() / stepGoal.toFloat();
         if (stepRatio > 0) {
             if (stepRatio < 1) {
@@ -173,7 +174,7 @@ class DHWatch2View extends WatchUi.WatchFace {
             } 
         }
         dc.setPenWidth(5);
-        dc.setColor(Graphics.COLOR_DK_RED, Graphics.COLOR_TRANSPARENT);
+        dc.setColor(Graphics.COLOR_RED, Graphics.COLOR_TRANSPARENT);
         dc.drawArc(posX, posY, 40, Graphics.ARC_CLOCKWISE, 90, 90);
         var HRSize = dc.getTextDimensions(HRstr, statsFont);
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
@@ -207,7 +208,7 @@ class DHWatch2View extends WatchUi.WatchFace {
         dc.setPenWidth(5);
         dc.setColor(Graphics.COLOR_DK_GRAY, Graphics.COLOR_TRANSPARENT);
         dc.drawArc(posX, posY, 40, Graphics.ARC_CLOCKWISE, 90, 90);
-        dc.setColor(Graphics.COLOR_DK_RED, Graphics.COLOR_TRANSPARENT);
+        dc.setColor(Graphics.COLOR_RED, Graphics.COLOR_TRANSPARENT);
         var BBRatio = BBval.toFloat() / 100.toFloat();
         if (BBRatio > 0) {
             if (BBRatio < 1) {
@@ -240,7 +241,7 @@ class DHWatch2View extends WatchUi.WatchFace {
         dc.setPenWidth(5);
         dc.setColor(Graphics.COLOR_DK_GRAY, Graphics.COLOR_TRANSPARENT);
         dc.drawArc(posX, posY, 40, Graphics.ARC_CLOCKWISE, 90, 90);
-        dc.setColor(Graphics.COLOR_DK_RED, Graphics.COLOR_TRANSPARENT);
+        dc.setColor(Graphics.COLOR_RED, Graphics.COLOR_TRANSPARENT);
         var calRatio = calCount.toFloat() / calGoal.toFloat();
         if (calRatio > 0) {
             if (calRatio < 1) {
@@ -260,7 +261,7 @@ class DHWatch2View extends WatchUi.WatchFace {
         var minutes = clockTime.min;
         var seconds = clockTime.sec;
         dc.setPenWidth(8);
-        dc.setColor(Graphics.COLOR_DK_RED, Graphics.COLOR_TRANSPARENT);
+        dc.setColor(Graphics.COLOR_RED, Graphics.COLOR_TRANSPARENT);
         if (minutes % 2 == 0) {
             // Even minutes, add line
             if (seconds > 0) {
@@ -298,6 +299,11 @@ class DHWatch2View extends WatchUi.WatchFace {
     // Terminate any active timers and prepare for slow updates.
     function onEnterSleep() as Void {
         isLowPowerMode = true;
+    }
+
+    function defineBoundingBoxes(dc) {
+        // bounds = [x, y, r] with x,y center of circle, r radius 
+
     }
 
 }
