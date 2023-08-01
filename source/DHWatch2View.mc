@@ -103,6 +103,7 @@ class DHWatch2View extends WatchUi.WatchFace {
         var time = Time.now();
         var date = Date.info(time, Time.FORMAT_MEDIUM);
         var dateString = Lang.format("$1$ $2$", [date.day, date.month]);
+        // System.println(dateString);
         var x = screenWidth / 2;
         var y = screenHeight / 2;
         dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
