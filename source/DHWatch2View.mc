@@ -76,6 +76,7 @@ class DHWatch2View extends WatchUi.WatchFace {
             drawSeconds(dc);
             drawBB(dc);
             noBT(dc);
+            drawTemperature(dc);
         }
     }
 
@@ -107,7 +108,7 @@ class DHWatch2View extends WatchUi.WatchFace {
         var x = screenWidth / 2;
         var y = screenHeight / 2;
         dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
-        dc.drawText(x + 40, y + 95, dateFont, dateString, Graphics.TEXT_JUSTIFY_LEFT); 
+        dc.drawText(x + 20, y + 95, dateFont, dateString, Graphics.TEXT_JUSTIFY_LEFT); 
     }
 
     function drawBattery(dc) {
@@ -184,7 +185,7 @@ class DHWatch2View extends WatchUi.WatchFace {
     }
 
     function drawNoti(dc) {
-        var posX = 280;
+        var posX = 261;
         var posY = 75;
         var notCount = System.getDeviceSettings().notificationCount;
         if (notCount > 0) {
@@ -281,8 +282,22 @@ class DHWatch2View extends WatchUi.WatchFace {
     function noBT(dc) {
         var BTstate = System.getDeviceSettings().phoneConnected;
         if (BTstate == false) {
-            dc.drawBitmap(310, 83, noBTImg);
+            dc.drawBitmap(301, 83, noBTImg);
         } 
+    }
+
+    function drawTemperature(dc) {
+        var WeatherConditions = Toybox.Weather.getCurrentConditions();
+        var tempString = "--";
+            if (WeatherConditions != null) {
+                var temperature = WeatherConditions.temperature;
+                tempString = Math.round(temperature).format("%d");
+                tempString = tempString + " °C";
+                var x = screenWidth / 2;
+                var y = screenHeight / 2;
+                dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
+                dc.drawText(x + 20, y + 131, statsFont, tempString, Graphics.TEXT_JUSTIFY_LEFT); 
+            }
     }
     
     // Called when this View is removed from the screen. Save the
